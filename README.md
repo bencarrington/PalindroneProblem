@@ -1,4 +1,4 @@
-# PalindroneProblem
+# Palindrone Problem
 C# how to solve a palindrone problem.
 
 
@@ -46,7 +46,7 @@ namespace Palindrone
 ```
 
 # C# Very Large sum
-Problem from Hacker rank site...
+[A Very Big Sum (HackerRank)](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 
 ```C#
 using System.CodeDom.Compiler;
