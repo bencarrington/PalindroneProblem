@@ -45,7 +45,7 @@ namespace Palindrone
 
 ```
 
-#C# Very Large sum
+# C# Very Large sum
 Problem from Hacker rank site...
 
 ```C#
